@@ -1,9 +1,11 @@
 # Search-engine_for_MajinBook
 A search engine dedicated to json files, and MajinBook corpus
 
-# Notes :
+# Note :
 
 Premier jet du script. Pour l'instant le code n'est pas très robuste.
+- Le filtrage est fermé : possibilité de chercher uniquement une paire clef, item.
+- >> ajouter un couplage des arguments de filtrage, par exemple `genre` + `title` + `1870`.
 
 ## Utilisation :
 
